@@ -1,2 +1,2 @@
 # ShapeDet
-Hack-in shape detection
+Detects basic shapes
